@@ -34,6 +34,7 @@ wheels/
 # Data
 data/*
 !data/.gitkeep
+!data/*.csv
 
 # Models
 models/*
